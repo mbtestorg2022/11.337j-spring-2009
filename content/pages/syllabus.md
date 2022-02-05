@@ -34,16 +34,117 @@ In order to address these questions, the seminar is structured around a series o
 Calendar
 --------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Introductions and overview of seminar |
-| 2 | Overview of policy and urban design |
-| 3 | Historical insights on public policy and urban design outcomes |
-| 4 | Exercising local and regional power on the design of cities |
-| 5 | Local government toolkits for urban design |
-| 6 | Effectiveness of policy tools for district and neighborhood design |
-| 7 | Deploying the urban design policy toolkit to transform a city |
-| 8 | At the cutting edge of urban design policy and action: part I |
-| 9 | At the cutting edge of urban design policy and action: part II |
-| 10 | Future directions? |
-| 11 | Review
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductions and overview of seminar
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of policy and urban design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Historical insights on public policy and urban design outcomes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Exercising local and regional power on the design of cities
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Local government toolkits for urban design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Effectiveness of policy tools for district and neighborhood design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Deploying the urban design policy toolkit to transform a city
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+At the cutting edge of urban design policy and action: part I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+At the cutting edge of urban design policy and action: part II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Future directions?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Review
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
